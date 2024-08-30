@@ -40,7 +40,7 @@ Use `model.summary()` to view the complete architecture.
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/rohan-chandrashekar/cnn-cifar10.git
+    git clone https://github.com/rohan-chandrashekar/Image-Classification-using-CNN-on-CIFAR-10.git
     ```
 2. Run the Jupyter notebook:
     ```bash
